@@ -28,3 +28,4 @@ Notes and usage details for Ask-out-your-Valentine.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- clarify the setup steps
