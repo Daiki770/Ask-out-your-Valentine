@@ -35,3 +35,4 @@ Notes and usage details for Ask-out-your-Valentine.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
