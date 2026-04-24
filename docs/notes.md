@@ -45,3 +45,4 @@ Notes and usage details for Ask-out-your-Valentine.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
